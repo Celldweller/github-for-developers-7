@@ -2,3 +2,4 @@
  - [ ] Somewhere
  - [ ] My favorite food
  - [ ] My favorite hobby
+ - [ ] My favorite color
